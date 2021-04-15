@@ -1,0 +1,9 @@
+@import './loading.css';
+
+.app {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
